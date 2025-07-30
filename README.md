@@ -60,32 +60,8 @@ I'm a front-end and Full Stack developer in ReactJS and Tailwind CSS. Additional
 <br />
 
 
-<br />
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=krnkiran22&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=krnkiran22" alt="GitHub Streak" />
-</div>
-
-<br />
-
-## 🌟 GitHub Social Badges
-
-[![GitHub followers](https://img.shields.io/github/followers/Hariniha?style=social)](https://github.com/Hariniha)  
-[![GitHub stars](https://img.shields.io/github/stars/Hariniha?style=social)](https://github.com/Hariniha)  
-[![GitHub forks](https://img.shields.io/github/forks/Hariniha?style=social)](https://github.com/Hariniha)  
-[![GitHub watchers](https://img.shields.io/github/watchers/Hariniha?style=social)](https://github.com/Hariniha)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Hariniha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 ## 🔝 Top Contributed Repo
 
