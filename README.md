@@ -9,9 +9,7 @@ I'm a front-end and Full Stack developer in ReactJS and Tailwind CSS. Additional
  - 💻 Connect with me on: [LinkedIn](https://linkedin.com/in/harini-priya-k5390b1331) | [X / Twitter](https://x.com/HariniPriya1218)
 </h4>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hariniha&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Hariniha" />
-</div>
+
 
 <br />
 
