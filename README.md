@@ -10,7 +10,7 @@ I'm a front-end and Full Stack developer in ReactJS and Tailwind CSS. Additional
 </h4>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=krnkiran22&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="krnkiran22" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hariniha&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Hariniha" />
 </div>
 
 <br />
