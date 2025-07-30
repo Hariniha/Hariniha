@@ -6,7 +6,7 @@ I'm a front-end and Full Stack developer in ReactJS and Tailwind CSS. Additional
 
 <h4>
  - 📫 Reach me on: harinipriya.se@gmail.com <br />
- - 💻 Connect with me on: [LinkedIn](https://linkedin.com/in/harini-priya-k5390b1331) | [X / Twitter](https://x.com/HariniPriya1218)
+ - 💻 Connect with me on: [LinkedIn](https://www.linkedin.com/in/harini-priya-k-5390b1331/) | [X / Twitter](https://x.com/HariniPriya1218)
 </h4>
 
 
