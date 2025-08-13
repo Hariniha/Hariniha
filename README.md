@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 👋, I'm Harini Priya</h1>
 
 <h3 align="center">
-I'm a front-end and Full Stack developer in ReactJS and Tailwind CSS. Additionally, I've been extending my skill set to include blockchain development, enabling me to create innovative decentralized applications (dApps) and contribute to the evolving landscape of blockchain technology.
+I'm a Full Stack developer in ReactJS and Tailwind CSS. Additionally, I've been extending my skill set to include blockchain development, enabling me to create innovative decentralized applications (dApps) and contribute to the evolving landscape of blockchain technology.
 </h3>
 
 <h4>
