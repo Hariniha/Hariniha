@@ -50,7 +50,7 @@ I'm a Full Stack developer in ReactJS and Tailwind CSS. Additionally, I've been 
       <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" /><br>Material UI
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48" height="48" alt="Next JS" /><br>Next JS
+      <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="48" height="48" alt="Next JS" /><br>NextJS
     </td>
   </tr>
 </table>
