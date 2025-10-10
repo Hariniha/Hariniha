@@ -2,6 +2,7 @@
 
 <h3 align="center">
 I’m a Full Stack Developer specializing in ReactJS and Tailwind CSS. Additionally, I’ve been extending my skill set to include blockchain development, enabling me to create innovative decentralized applications (dApps) and contribute to the evolving landscape of blockchain technology. Alongside my technical journey, I also serve as a LazAI Dev Ambassador and an active HerDAO contributor, where I collaborate with global communities to drive innovation, inclusivity, and impact within the Web3 ecosystem.
+ 
 </h3>
 
 <h4>
